@@ -28,3 +28,5 @@ git checkout -b newbranchname
 git checkout branchname / git switch branchname
 -go to another branch
 //this is the first branch
+git pull origin main
+-pull from remote repository
