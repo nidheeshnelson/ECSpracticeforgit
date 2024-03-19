@@ -31,3 +31,5 @@ git branch --all
 -show all branches including remote repositary
 git branch -d branchname
 -delete a branch
+git push origin branchname
+-push branch to remote repository
