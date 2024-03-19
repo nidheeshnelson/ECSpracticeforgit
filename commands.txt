@@ -23,7 +23,11 @@ git checkout
 -branch
 git switch
 -branch
-git checkout -b newbranchname
+git checkout -b newbranchname / git switch -c newbranchname
 -create new branch
 git checkout branchname / git switch branchname
 -go to another branch
+git branch --all
+-show all branches including remote repositary
+git branch -d branchname
+-delete a branch
