@@ -1,0 +1,21 @@
+git --version
+-for version check
+git congig
+git config --global --list
+-for user name and email showing
+git  config --global user.name "username"
+-add username
+git config --global user.email "email"
+-add email
+git init
+-initiate a master on local repository(staging area)
+git init -b namethebranch
+-initiate a branch on local repository(staging area)
+git diff
+git diff --staged
+git rm --cached filenamefordeletefromrepository
+git tag
+git tag -a v1.0 -m "message"
+-annotated tagging
+git show v1.0
+-show version1.0 details
