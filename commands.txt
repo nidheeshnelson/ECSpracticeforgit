@@ -19,3 +19,11 @@ git tag -a v1.0 -m "message"
 -annotated tagging
 git show v1.0
 -show version1.0 details
+git checkout
+-branch
+git switch
+-branch
+git checkout -b newbranchname
+-create new branch
+git checkout branchname / git switch branchname
+-go to another branch
